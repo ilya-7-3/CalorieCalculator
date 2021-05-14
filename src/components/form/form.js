@@ -52,7 +52,7 @@ export default class Form extends Component{
         <div className="row">
         <Input id="0" name="Рост" small="Введите рост (в см)"/>
         <Input id="1" name="Вес" small="Введите вес (в кг)"/>
-        <Input id="2" name="Возраст" small="Введите возраст (в годах)"/>
+        <Input id="2" name="Возраст" small="Введите возраст"/>
         </div>
         <Select/>
         <div className="text-center">
